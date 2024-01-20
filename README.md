@@ -1,7 +1,11 @@
-Hi there 👋
-I'm a passionate Content Writer ✍ and an aspiring digital nomad. I am studying programming with an intermediate understanding of Python and the Django framework. 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+_____________________________________________________________________________________________________________________________________________________
 
-___________________________________________________________________________________________________________________________________________________________________________________________
+Hi there 👋
+
+I'm a passionate Content Writer ✍ and an aspiring digital nomad. I am studying programming with an intermediate understanding of Python and the Django framework. 
 
 - 👋 My name is Brian Koome
 - 👀 I’m interested in learning solidity.
@@ -13,6 +17,14 @@ ________________________________________________________________________________
 - 🎸 Would love To buy a car
 - ✍ Read my articles [Hashnode](https://hashnode.com/@BrianK), [Cryptopolitan](https://www.cryptopolitan.com/author/briank/), [Block Today](https://blocktoday.io/author/brian-writer/)
 - 📫 Reach me at b61240@gmail.com
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=code0254&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code0254&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
