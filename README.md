@@ -8,7 +8,7 @@ Hi there 👋
 
 I'm a passionate Content Writer ✍ and an aspiring digital nomad. I am studying programming with an intermediate understanding of Python and the Django framework. 
 
-- 👋 My name is Brian Koome
+- 👋 My name is Brian Koome.
 - 👀 I’m interested in learning solidity.
 - 🌱 I’m a content writer specializing in Web3 and artificial intelligence.
 - 💞️ I’m looking for a junior/ learning developer role. Ready to work for free.
